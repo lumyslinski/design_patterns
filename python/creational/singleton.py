@@ -18,4 +18,3 @@ print(s1.getUniqueId())
 
 s2 = Singleton()
 print(s2.getUniqueId())
-
